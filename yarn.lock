@@ -6268,10 +6268,10 @@ vary@^1.1.2:
   resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha512-BNGbWLfd0eUPabhkXUVm0j8uuvREyTh5ovRa/dyow/BqAbZJyC+5fU+IzQOzmAKzYqYRAISoRhdQr3eIZ/PXqg==
 
-vite-plugin-node-polyfills@^0.11.3:
-  version "0.11.3"
-  resolved "https://registry.npmjs.org/vite-plugin-node-polyfills/-/vite-plugin-node-polyfills-0.11.3.tgz#3b805183a8a20a0f80871d20e0a8b33b90965555"
-  integrity sha512-Cz+FJMGzEBwN9KfImOnij3NAfc+P59BXpUqbuN9BzkCr806MY+zo/xzBGOEz9ynY5DUN8fHW2VHUzZgQQS6WJQ==
+vite-plugin-node-polyfills@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.npmjs.org/vite-plugin-node-polyfills/-/vite-plugin-node-polyfills-0.12.0.tgz#f97606cb9bdfa66e71d83738e5e05a409096321f"
+  integrity sha512-xZfpD81aNhwEbIjccEiy8Q/hDdnlYqBSeEaUMIukOpGHuMaz65jqrC2lmnF/FXnliovISy2L1n92da0JOvk36A==
   dependencies:
     "@rollup/plugin-inject" "^5.0.3"
     buffer-polyfill "npm:buffer@^6.0.3"
